@@ -1,8 +1,8 @@
 # Some Useful R Functions
-***
+
 This is a repo for some functions I have written in R, inspired when I was solving various problems. Right now, there are only two very simple functions in the repo. I will add more along the way.
-***
-## df_comp & df_diff: Comparing Data Frames (Data Tables) and Locating Differences
+
+## [df_comp & df_diff](https://github.com/yifanx0/R_functions_yifan/blob/master/r_data_frame_comp_diff.R): Comparing Data Frames (Data Tables) and Locating Differences
 
 ### df_comp
 A simple function built upon all.equal function in data.table. It makes comparison of a certain range of two data tables easier and the returns are more straight-forward.
